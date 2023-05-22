@@ -1,4 +1,4 @@
-namespace java dev.vality.alerting.tg-bot
+namespace java dev.vality.alerting.tg_bot
 
 /** Идентификатор */
 typedef string ID
